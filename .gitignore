@@ -1,0 +1,9 @@
+# Entornos virtuales
+.venv/
+venv/
+.venv-1/
+venv-1/.venv-1/
+# Datos locales de Spark
+medallion/
+**/*.crc
+_SUCCESS
